@@ -213,7 +213,7 @@ class wpcms_widget_control{
 
 	/**
 	 *
-	 * Sanitize input before saving like any good plugin should!
+	 * Remove those pesky widgets
 	 *
 	 */
 	function unregister_widgets() {
